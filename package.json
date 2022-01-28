@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "keywords": [],
   "main": "src/index.js",
+  "engines": {
+    "npm":"8.1.2",
+    "node":"16.13.2"
+  },
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
     "express": "^4.17.2",
